@@ -1,7 +1,7 @@
 ## Oiii eu sou a Paula Souza!
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/anapaulasouzasantos">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anapaulasouzasantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulasouzasantos&layout=compact&langs_count=7&theme=radical"/>
 </div>
