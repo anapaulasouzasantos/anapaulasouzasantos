@@ -1,4 +1,8 @@
-## Oiii eu sou a Paula Souza!
+  <div style="display: flex;">
+  <img align="left" width="15%" src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"><br>
+  <h3>Sou a Paula Souza</h3><br>
+  </div>
+ 
 
 <div align="center">
   <a href="https://github.com/anapaulasouzasantos">
