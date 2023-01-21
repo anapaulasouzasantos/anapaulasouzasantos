@@ -1,4 +1,4 @@
-  <a href="https://ibb.co/SQGvSn1"><img align="right" src="https://i.ibb.co/dbxKZ23/1671382925988.png" alt="1671382925988" border="0" /></a>
+  <a href="https://ibb.co/SQGvSn1"><img height="450" width="500" align="right" src="https://i.ibb.co/dbxKZ23/1671382925988.png" alt="1671382925988" border="0" /></a>
  
  <div align="center">
   <br>
